@@ -4,8 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Live links
 
-GitHub [click here]()
-Live URL [click here]()
+GitHub [click here](https://github.com/Vinoth30457/color-generator.git)
+
+Live URL [click here](https://64c22edc8d5c59656f409152--symphonious-kulfi-6ce963.netlify.app/)
 
 ## Available Scripts
 
